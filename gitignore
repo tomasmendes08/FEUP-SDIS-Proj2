@@ -1,0 +1,10 @@
+# Default ignored files
+/.idea/
+/out/
+.gitignore
+g06.iml
+*.class
+/proj1/src/peers
+/proj1/src/storage
+*/*.class
+/src/peersfiles
